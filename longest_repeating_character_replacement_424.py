@@ -1,8 +1,6 @@
 # Longest Repeating Character Replacement LeetCode #424
 class Solution(object):
     def characterReplacement(self, s, k):
-        if k == 0 or s == "":
-         return 0
 
         char_freq= {}  # Use a hashmap (dictionary) to track the frequency of characters in the current window.
         left = 0  # Start of window
