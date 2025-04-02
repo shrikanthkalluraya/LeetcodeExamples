@@ -1,5 +1,4 @@
 # Longest Repeating Character Replacement LeetCode #424
-# Longest Substring with At Most K Distinct Characters  Leet code #340
 class Solution(object):
     def characterReplacement(self, s, k):
         if k == 0 or s == "":
