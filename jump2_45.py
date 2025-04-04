@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: int
         """
         # Initialize variables: jumps, current jump range, and farthest reach
-        if lens(nums)==1:
+        if len(nums)==1:
           return 0
         jumps = 0
         far = 0
