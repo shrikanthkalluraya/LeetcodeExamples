@@ -1,41 +1,41 @@
 ## ✅ LeetCode Problems to Solve
 
 ### 🧮 Array and Strings
-- [ ] Two Sum (LeetCode 1)  
-- [ ] Longest Substring Without Repeating Characters (LeetCode 3)  
-- [ ] Product of Array Except Self (LeetCode 238)  
-- [ ] Maximum Subarray (LeetCode 53)  
-- [ ] Merge Intervals (LeetCode 56)  
+- [x] Two Sum (LeetCode 1)  
+- [x] Longest Substring Without Repeating Characters (LeetCode 3)  
+- [x] Product of Array Except Self (LeetCode 238)  
+- [x] Maximum Subarray (LeetCode 53)  
+- [x] Merge Intervals (LeetCode 56)  
 
 ### 🔗 Linked Lists
-- [ ] Reverse Linked List (LeetCode 206)  
-- [ ] Merge Two Sorted Lists (LeetCode 21)  
-- [ ] Detect Cycle in a Linked List (LeetCode 141)  
-- [ ] Remove nth Node from End of the List (LeetCode 19)  
+- [x] Reverse Linked List (LeetCode 206)  
+- [x] Merge Two Sorted Lists (LeetCode 21)  
+- [x] Detect Cycle in a Linked List (LeetCode 141)  
+- [x] Remove nth Node from End of the List (LeetCode 19)  
 
 ### 🧱 Stacks and Queues
-- [ ] Valid Parentheses (LeetCode 20)  
-- [ ] Implement Queue using Stacks (LeetCode 232)  
-- [ ] Min Stack (LeetCode 155)  
-- [ ] Largest Rectangle in Histogram (LeetCode 84)  
-- [ ] Sliding Window Maximum (LeetCode 239)  
+- [x] Valid Parentheses (LeetCode 20)  
+- [x] Implement Queue using Stacks (LeetCode 232)  
+- [x] Min Stack (LeetCode 155)  
+- [x] Largest Rectangle in Histogram (LeetCode 84)  
+- [x] Sliding Window Maximum (LeetCode 239)  
 
 ### 🌲 Trees
-- [ ] Validate Binary Search Tree (LeetCode 98)  
-- [ ] Lowest Common Ancestor of a BST (LeetCode 235)  
-- [ ] Binary Tree Maximum Path Sum (LeetCode 124)  
+- [x] Validate Binary Search Tree (LeetCode 98)  
+- [x] Lowest Common Ancestor of a BST (LeetCode 235)  
+- [x] Binary Tree Maximum Path Sum (LeetCode 124)  
 
 ### 🌐 Graphs
-- [ ] Clone Graph (LeetCode 133)  
-- [ ] Course Schedule (LeetCode 207)  
-- [ ] Number of Islands (LeetCode 200)  
-- [ ] Graph Valid Tree (LeetCode 261)  
-- [ ] Word Ladder (LeetCode 127)  
-- [ ] Course Schedule II (LeetCode 210)  
+- [x] Clone Graph (LeetCode 133)  
+- [x] Course Schedule (LeetCode 207)  
+- [x] Number of Islands (LeetCode 200)  
+- [x] Graph Valid Tree (LeetCode 261)  
+- [x] Word Ladder (LeetCode 127)  
+- [x] Course Schedule II (LeetCode 210)  
 
 ### 🔺 Heaps
-- [ ] Merge k Sorted Lists (LeetCode 23)  
-- [ ] Top K Frequent Elements (LeetCode 347)  
+- [x] Merge k Sorted Lists (LeetCode 23)  
+- [x] Top K Frequent Elements (LeetCode 347)  
 - [ ] Find Median from Data Stream (LeetCode 295)  
 - [ ] Kth Largest Element in an Array (LeetCode 215)  
 - [ ] Sliding Window Median (LeetCode 480)  
@@ -55,8 +55,8 @@
 - [ ] Majority Element (LeetCode 169)  
 
 ### 💰 Greedy Algorithm
-- [ ] Gas Station (LeetCode 134)  
-- [ ] Jump Game (LeetCode 55)  
+- [x] Gas Station (LeetCode 134)  
+- [x] Jump Game (LeetCode 55)  
 - [ ] Partition Labels (LeetCode 763)  
 - [ ] Minimum Number Of Arrows to Burst Balloons (LeetCode 452)  
 - [ ] Assign Cookies (LeetCode 455)  
