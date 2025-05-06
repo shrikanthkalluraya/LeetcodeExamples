@@ -1,6 +1,9 @@
 # cheet sheet
 
- Start
+## 📋 Decision Tree
+
+```text
+Start
 │
 ├── Is the data sorted or needs order?
 │   ├── Yes → Try Two Pointers or Binary Search
@@ -58,6 +61,7 @@
 | **Union-Find (DSU)**| Disjoint sets, graph connectivity             | Number of islands, Redundant connection  |
 
 ---
+```
 
 ## 💡 Tips
 
