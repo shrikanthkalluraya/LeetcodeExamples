@@ -19,7 +19,6 @@ class Solution:
 
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         max_k = max(piles)
-        print(max_k)
         left, right, boundary = 0, max_k, -1
         while left <= right:
             mid = (left + right) // 2
