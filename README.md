@@ -63,5 +63,22 @@
 
 ### 🔍 Backtracking
 - [ ] Subsets (LeetCode 78)  
+
+## 🎯 LeetCode 150
+
+### Array / String
+
+| Problem Name (Repo Link) | Problem Name (LeetCode Link) | Difficulty |
+|---|---|---|
+| [Integer to Roman](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/012_integer_to_roman.py) | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium |
+| [Roman to Integer](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/013_roman_to_integer.py) | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy |
+| [Jump Game II](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/045_jump_game_ii.py) | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium |
+| [Jump Game](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/055_jump_game.py) | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium |
+| [Best Time to Buy and Sell Stock II](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/122_best_time_to_buy_and_sell_stock_ii.py) | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [Gas Station](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/134_gas_station.py) | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium |
+| [Candy](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/135_candy.py) | [Candy](https://leetcode.com/problems/candy/) | Hard |
+| [Product of Array Except Self](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/238_product_of_array_except_self.py) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
+| [H-Index](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/274_h_index.py) | [H-Index](https://leetcode.com/problems/h-index/) | Medium |
+| [Insert Delete GetRandom O(1)](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/380_insert_delete_getrandom_o1.py) | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium |
 - [ ] Permutations (LeetCode 46)  
 - [ ] Word Search (LeetCode 79)
