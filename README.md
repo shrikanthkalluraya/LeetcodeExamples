@@ -80,5 +80,14 @@
 | [Product of Array Except Self](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/238_product_of_array_except_self.py) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium |
 | [H-Index](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/274_h_index.py) | [H-Index](https://leetcode.com/problems/h-index/) | Medium |
 | [Insert Delete GetRandom O(1)](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/380_insert_delete_getrandom_o1.py) | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium |
+| [Remove Duplicates from Sorted Array](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/026_remove_duplicates_from_sorted_array.py) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
+| [Remove Element](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/027_remove_element.py) | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |
+| [Trapping Rain Water](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/042_trapping_rain_water.py) | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard |
+| [Text Justification](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/068_text_justification.py) | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard |
+| [Remove Duplicates from Sorted Array II](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/080_remove_duplicates_from_sorted_array_ii.py) | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium |
+| [Merge Sorted Array](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/088_merge_sorted_array.py) | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy |
+| [Best Time to Buy and Sell Stock](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/121_best_time_to_buy_and_sell_stock.py) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
+| [Majority Element](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/169_majority_element.py) | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
+| [Rotate Array](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/189_rotate_array.py) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium |
 - [ ] Permutations (LeetCode 46)  
 - [ ] Word Search (LeetCode 79)
