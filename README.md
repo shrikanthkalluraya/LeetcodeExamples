@@ -62,7 +62,9 @@
 - [ ] Assign Cookies (LeetCode 455)  
 
 ### 🔍 Backtracking
-- [ ] Subsets (LeetCode 78)  
+- [ ] Subsets (LeetCode 78)
+- [ ] Permutations (LeetCode 46)  
+- [ ] Word Search (LeetCode 79)
 
 ## 🎯 LeetCode 150
 
@@ -94,5 +96,3 @@
 | [Length of Last Word](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/058_length_of_last_word.py) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |
 | [Zigzag Conversion](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/006_zigzag_conversion.py) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium |
 | [Reverse Words in a String](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/151_reverse_words_in_a_string.py) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |
-- [ ] Permutations (LeetCode 46)  
-- [ ] Word Search (LeetCode 79)
