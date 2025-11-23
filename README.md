@@ -89,5 +89,10 @@
 | [Best Time to Buy and Sell Stock](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/121_best_time_to_buy_and_sell_stock.py) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |
 | [Majority Element](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/169_majority_element.py) | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
 | [Rotate Array](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/189_rotate_array.py) | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium |
+| [Longest Common Prefix](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/014_longest_common_prefix.py) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
+| [Find the Index of the First Occurrence in a String](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/028_find_the_index_of_the_first_occurrence_in_a_string.py) | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [Length of Last Word](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/058_length_of_last_word.py) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy |
+| [Zigzag Conversion](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/006_zigzag_conversion.py) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium |
+| [Reverse Words in a String](https://github.com/shrikanthkalluraya/LeetcodeExamples/blob/main/Leetcode_150/Array_String/151_reverse_words_in_a_string.py) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |
 - [ ] Permutations (LeetCode 46)  
 - [ ] Word Search (LeetCode 79)
